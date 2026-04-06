@@ -1,2 +1,3 @@
 Today i start a new file
 Modificat in masterbranch for merge purpose
+Modified from .git
